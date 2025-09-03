@@ -1,7 +1,7 @@
 # 🌳 Bosque das Chaves - Plataforma Imobiliária Fictícia 
 
 Projeto desenvolvido para simular uma **plataforma imobiliária**, onde é possível visualizar propriedades, acessar detalhes, efetuar login e ter uma experiência visual imersiva.  
-O foco deste projeto é demonstrar **boas práticas de desenvolvimento front-end** com HTML, CSS e JavaScript, aliado a um design agradável e moderno.  
+O foco deste projeto é estudar e demonstrar **boas práticas de desenvolvimento front-end** com HTML, CSS e JavaScript, aliado a um design agradável e moderno.  
 
 ---
 
@@ -22,6 +22,10 @@ O foco deste projeto é demonstrar **boas práticas de desenvolvimento front-end
 - **CSS3** (Flexbox, Grid e Glassmorphism)  
 - **JavaScript (ES6+)**  
 - **JSON** (para simulação de dados de imóveis)
+
+ ## 🛠️ Melhorias Futuras
+
+- Tornar responsivo para dispositivos móveis.
 
 
 ---
@@ -53,5 +57,4 @@ Todas as imagens são gratuitas para uso, mas aqui estão os créditos aos autor
 
 ---
 
-## ▶️ Acesse o projeto hospedado através do link: 
 Autor(a): Giselle Alves
